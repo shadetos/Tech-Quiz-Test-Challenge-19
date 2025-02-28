@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
 
-Click <a href="https://drive.google.com/file/d/1JwW96Psgi-cQRhAdJOj01P6aq93hXJ5n/view?usp=sharing">here</a> to take you to a demonstration video of the cypress tests!
+
 
 ## Table of Contents
 
@@ -18,8 +18,6 @@ Click <a href="https://drive.google.com/file/d/1JwW96Psgi-cQRhAdJOj01P6aq93hXJ5n
 - [Future-Features](#future-features)
 - [License](#license)
 - [Technologies](#technologies-used)
-- [Credits](#credits)
-- [Contact Me](#contact-me)
 
 ## Required Technologies
 
@@ -99,17 +97,3 @@ Licensed under the MIT license.
 <li>Mozila Web Docs and W3 Schools (for getting help with TypeScript).</li>
 </ul>
 
-## Credits
-
-<ul>
-<li>Joshua Pruitt (me)</li>
-<li>Coding bootcamp staff (for their help with Coding)</li>
-</ul>
-
-## Contact Me
-
-<ul>
-<li>My email: joshuapruitt6484@gmail.com</li>
-<li><a href=https://github.com/JoshuaPruitt>My GitHub</a></li>
-<li><a href=https://www.linkedin.com/in/joshua-pruitt-1a494a311>My LinkedIn</a></li>
-</ul>
